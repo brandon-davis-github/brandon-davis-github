@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Brandon and I am currently working through the Microsoft Software & Systems academy to learn programming!
+
+I have two of my projects I developed during the academy here on my github.  One is a fun companion application for Pokemon and the other is a crafting almanac for another game called Valheim.
+
 <!--
 **brandon-davis-github/brandon-davis-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
